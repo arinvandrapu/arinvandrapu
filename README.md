@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Arin! </h1>
 
-<!--
-**arinvandrapu/arinvandrapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>SIEM Implementation in Azure Cloud</b>
+  - [Project Link](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2> Connect with me:</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arin-vandrapu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
