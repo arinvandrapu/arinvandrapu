@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>SIEM Implementation in Azure Cloud</b>
-  - [Project Link](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project Link](https://github.com/arinvandrapu/SIEMProject)
 
 
 
