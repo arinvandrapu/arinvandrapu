@@ -4,7 +4,8 @@
 
 - <b>SIEM Implementation in Azure Cloud</b>
   - [Project Link](https://github.com/arinvandrapu/SIEMProject)
-
+- <b>Covert Channels Lab<b>
+  - [Project Link](https://github.com/arinvandrapu/CovertChannelsLab)
 
 
 <h2> Connect with me:</h2>
