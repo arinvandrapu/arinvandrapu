@@ -2,11 +2,12 @@
 
 <h2>Projects:</h2>
 
+- <b>ML/NLP Automated Threat Intelligence Pipeline (Senior Design Project)<b>
+  - **[Project Link](https://github.com/YussefAlta/ML-Threat-Intelligence-System)**
 - <b>SIEM Implementation in Azure Cloud</b>
   - **[Project Link](https://github.com/arinvandrapu/SIEMProject)**
 - <b>Covert Channels Lab<b>
   - **[Project Link](https://github.com/arinvandrapu/CovertChannelsLab)**
-
 
 <h2> Connect with me:</h2>
 
