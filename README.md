@@ -4,7 +4,7 @@
 
 - <b>AI Risk Assessment Project<b>
   - **[Project Link](https://github.com/arinvandrapu/AIRiskAssessmentProject)**
-- <b>ML/NLP Automated Threat Intelligence Pipeline (Senior Design Project)<b>
+- <b>ML/NLP Automated Threat Intelligence Pipeline<b>
   - **[Project Link](https://github.com/YussefAlta/ML-Threat-Intelligence-System)**
 - <b>SIEM Implementation in Azure Cloud</b>
   - **[Project Link](https://github.com/arinvandrapu/SIEMProject)**
